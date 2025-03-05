@@ -60,9 +60,9 @@ class VaultDoor5 {
     }
 }
 ```
-## Analisys
+## Analysis
 1. The program expects input in the following format: `picoCTF{...}`.
-2. The content inside the curly braces is passed in the `checkPassword` function.
+2. The content inside the curly braces is passed to the `checkPassword` function.
 3. The program processes the input as follows:
  - Input is converted into bytes.
  - Bytes are encrypted with base 64 encode.

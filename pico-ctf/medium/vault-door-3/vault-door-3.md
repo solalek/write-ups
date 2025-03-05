@@ -57,7 +57,7 @@ class VaultDoor3 {
 ```
 ## Analysis
 1. The program expects input in the following format: `picoCTF{...}`.
-2. The content inside the curly braces is passed in `checkPassword` function.
+2. The content inside the curly braces is passed to the `checkPassword` function.
 3. The program processes the input as follows:
  - The characters from 1 to 8 (indices 0 to 7) remain in the same order. 
  - The characters from 9 to 16 (indices 8 to 15) are reversed. 

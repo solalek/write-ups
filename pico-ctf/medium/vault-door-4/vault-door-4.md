@@ -58,7 +58,7 @@ class VaultDoor4 {
 ```
 ## Analysis
 1. The program expects the input in the following format: `picoCTF{...}`.
-2. The content inside curly braces is passed in the `checkPassword` function.
+2. The content inside curly braces is passed to the `checkPassword` function.
 3. The content is converted into bytes.
 4. The converted bytes are compared with the original bytes.
 

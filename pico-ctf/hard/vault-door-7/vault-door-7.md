@@ -78,9 +78,9 @@ class VaultDoor7 {
     }
 }
 ```
-## Analisys
+## Analysis
 1. The program expects the following format: `picoCTF{...}`.
-2. The content from the curly braces is passed in the `checkPassword` function.
+2. The content from the curly braces is passed to the `checkPassword` function.
 3. The content length must be equal 32.
 4. The principle of work is described in the got Java program.
 
