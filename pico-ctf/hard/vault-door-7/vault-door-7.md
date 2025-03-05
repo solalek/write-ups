@@ -2,7 +2,7 @@
 
 This is write-up for the challenge `picoCTF - vault-door-7`.
 The goal is to obtain the flag from the Java program.
-**Tools used:** Java, Code editor.
+**Tools used:** Java, Code editor, Sed, Tr, Fold, Python.
 
 ---
 
