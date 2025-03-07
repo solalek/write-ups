@@ -2,7 +2,7 @@
 
 This is write-up for the challenge `picoCTF - st3g0`.
 The goal is to obtain the flag from a PNG image file.
-**Tools used:** zsteg.
+**Tools used:** zsteg, file, exiftool, binwalk, strings.
 
 --
 
